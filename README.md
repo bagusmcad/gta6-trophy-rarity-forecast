@@ -1,3 +1,7 @@
+[![gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/bagusmcad/gta6-trophy-rarity-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/bagusmcad/gta6-trophy-rarity-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+
 # Refresh-Aware Launch-Curve Forecaster — GTA VI Trophy Rarity
 
 **Competition:** `gta6-trophy-rarity-forecast-01` — forecast, for every one of the 55
